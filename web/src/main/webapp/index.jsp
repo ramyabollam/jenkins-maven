@@ -11,7 +11,7 @@
     <title>Super Simple Example Webpage</title>
 </head>
 <body>
- 
+	<p>hello this is a context path</p> 
 	<h1>this is a pipeline test</h1>
 <h1>hi i am just pushed from the developer machine</h1>
   <p>
