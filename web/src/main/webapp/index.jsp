@@ -12,7 +12,7 @@
 </head>
 <body>
  
-
+	<h1>this is a pipeline test</h1>
 <h1>hi i am just pushed from the developer machine</h1>
   <p>
     This is a very simple example web page on a JSP.
