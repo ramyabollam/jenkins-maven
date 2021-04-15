@@ -8,11 +8,11 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Super Simple Example Webpage</title>
+    <title>This is My first app</title>
 </head>
 <body>
 	<p>hello this is a context path</p> 
-	<h1>this is a pipeline test</h1>
+	<h1>I am from dev desk </h1>
 <h1>hi i am just pushed from the developer machine</h1>
   <p>
     This is a very simple example web page on a JSP.
